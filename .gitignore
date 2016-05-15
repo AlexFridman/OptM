@@ -9,4 +9,9 @@
 [Ss]cripts
 pyvenv.cfg
 .venv
-pip-selfcheck.json
+ipip-selfcheck.json
+.ipynb_checkpoints
+bin
+include
+lib
+shared
